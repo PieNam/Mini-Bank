@@ -7,3 +7,14 @@ Mini-Bank - SYSU, BlockChain Principles and Technology Course Project. 中山大
 - **课程设计项目报告** .md 源文件和 pdf 见仓库一级目录下的 `doc-repo/`；
 - **前、后、链端源代码**见仓库一级目录下对应的 `mb-XX-end/`；
 
+
+
+
+
+> TODO:
+>
+> - Better user friendly interface;
+>
+> TOFIX:
+>
+> - Due day calculation in [Financing] of the contract;
